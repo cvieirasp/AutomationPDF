@@ -8,6 +8,9 @@ namespace AutomationPDF
 {
     public class DocumentPDF
     {
+        public DocumentPDF()
+        {
 
+        }
     }
 }
