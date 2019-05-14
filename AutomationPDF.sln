@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomationPDF", "AutomationPDF\AutomationPDF.csproj", "{E4E515F3-97AE-4327-BC2F-CB2598009F84}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomationPDF.Test", "AutomationPDF.Test\AutomationPDF.Test.csproj", "{6CA49B05-17AE-41CC-A342-ED96A309FD91}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E4E515F3-97AE-4327-BC2F-CB2598009F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4E515F3-97AE-4327-BC2F-CB2598009F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4E515F3-97AE-4327-BC2F-CB2598009F84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CA49B05-17AE-41CC-A342-ED96A309FD91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CA49B05-17AE-41CC-A342-ED96A309FD91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CA49B05-17AE-41CC-A342-ED96A309FD91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CA49B05-17AE-41CC-A342-ED96A309FD91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
